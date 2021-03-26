@@ -1,0 +1,22 @@
+C:\Users\Victor\source\repos\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Victor\source\repos\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Victor\source\repos\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Victor\source\repos\PingPong\PingPong\bin\Debug\OpenTK.dll
+C:\Users\Victor\source\repos\PingPong\PingPong\bin\Debug\OpenTK.pdb
+C:\Users\Victor\source\repos\PingPong\PingPong\bin\Debug\OpenTK.xml
+C:\Users\Victor\source\repos\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\PingPong\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+C:\Users\Victor\source\repos\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Victor\source\repos\PingPong\PingPong\obj\Debug\PingPong.pdb
+D:\3º período\Projeto Integrador\PingPong\PingPong\bin\Debug\PingPong.exe.config
+D:\3º período\Projeto Integrador\PingPong\PingPong\bin\Debug\PingPong.exe
+D:\3º período\Projeto Integrador\PingPong\PingPong\bin\Debug\PingPong.pdb
+D:\3º período\Projeto Integrador\PingPong\PingPong\bin\Debug\OpenTK.dll
+D:\3º período\Projeto Integrador\PingPong\PingPong\bin\Debug\OpenTK.pdb
+D:\3º período\Projeto Integrador\PingPong\PingPong\bin\Debug\OpenTK.xml
+D:\3º período\Projeto Integrador\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+D:\3º período\Projeto Integrador\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+D:\3º período\Projeto Integrador\PingPong\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+D:\3º período\Projeto Integrador\PingPong\PingPong\obj\Debug\PingPong.exe
+D:\3º período\Projeto Integrador\PingPong\PingPong\obj\Debug\PingPong.pdb
